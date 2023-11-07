@@ -6,6 +6,7 @@ export const IMAGE = styled(Image)`
   height: 200px;
   object-fit: cover;
   border-radius: 5px;
+  cursor: pointer;
 
   @media (max-width: 768px) {
     width: 100px;
