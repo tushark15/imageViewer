@@ -22,13 +22,6 @@ The `ImageModal` component is responsible for displaying a modal view of an imag
 
 The `SearchBar` component features the search input field and displays the search history. It provides suggestions based on the search history and allows users to select from their recent searches. It stores the search history locally to maintain user preferences.
 
-## Usage
-
-1. Clone the repository.
-2. Run `npm install` to install dependencies.
-3. Create a `.env` file and add your Flickr API key as `VITE_APIKEY=YOUR_API_KEY`.
-4. Run the app using `npm run dev`.
-
 ## Technologies Used
 
 - React
